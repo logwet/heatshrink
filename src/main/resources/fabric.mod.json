@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "heatshrink",
+  "version": "${version}",
+  "accessWidener": "heatshrink.accesswidener",
+  "name": "Heatshrink",
+  "description": "Mod that halves the size of nether regions",
+  "authors": [
+    "logwet"
+  ],
+  "contributors": [
+    "Sharpieman20"
+  ],
+  "contact": {
+    "homepage": "https://github.com/logwet",
+    "sources": "https://github.com/logwet/heatshrink"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/heatshrink/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.logwet.heatshrink.HeatShrink"
+    ],
+    "client": [
+      "me.logwet.heatshrink.HeatShrinkClient"
+    ],
+    "server": [
+      "me.logwet.heatshrink.HeatShrinkServer"
+    ]
+  },
+  "mixins": [
+    "heatshrink.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": "1.16.x"
+  }
+}
