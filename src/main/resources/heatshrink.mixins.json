@@ -4,6 +4,7 @@
   "package": "me.logwet.heatshrink.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "common.StructureSettingsMixin"
   ],
   "client": [
     "client.DebugScreenOverlayMixin"

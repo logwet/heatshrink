@@ -23,10 +23,8 @@
       "me.logwet.heatshrink.HeatShrink"
     ],
     "client": [
-      "me.logwet.heatshrink.HeatShrinkClient"
     ],
     "server": [
-      "me.logwet.heatshrink.HeatShrinkServer"
     ]
   },
   "mixins": [
