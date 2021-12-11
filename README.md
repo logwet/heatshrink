@@ -1,6 +1,6 @@
 # Heatshrink
 
-Mod that halves the size of nether regions. Idea by Sharpieman20.
+Mod that halves the size of nether regions so structures are ~4x more common. Idea by Sharpieman20.
 
 ## Setup
 

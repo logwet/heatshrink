@@ -4,7 +4,7 @@
   "version": "${version}",
   "accessWidener": "heatshrink.accesswidener",
   "name": "Heatshrink",
-  "description": "Mod that halves the size of nether regions",
+  "description": "Mod that halves the size of nether regions so structures are ~4x more common. Idea by Sharpieman20",
   "authors": [
     "logwet"
   ],
