@@ -11,7 +11,7 @@ import org.spongepowered.asm.mixin.injection.Slice;
 @SuppressWarnings("UnresolvedMixinReference")
 @Mixin(StructureSettings.class)
 public abstract class StructureSettingsMixin {
-    @Unique private static final int SPACING = 14;
+    @Unique private static final int SPACING = 17;
 
     @Unique private static final int SEPARATION = 2;
 
